@@ -1,0 +1,7 @@
+[package]
+name = "rjson"
+version = "0.1.0"
+authors = ["hamadu <dercll1020@gmail.com>"]
+
+[dependencies]
+combine = "2.5.2"
